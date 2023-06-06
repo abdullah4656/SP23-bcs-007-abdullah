@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+    
+}
+
+.header{
+  font-family: 'Inter', sans-serif;  
+  background: image();
+    width: 1;
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+        
+}
+.cardimg{
+ background-color:white;
+ width: 200px;
+ border-radius: 10px;
+ 
+}
+
+
+.logo{
+    width:350px;
+    height: 100%;    
+    font-family: 'Inter', sans-serif;
+  }
+
+
+
+
+.hover{
+    background-color: white;
+    
+    color:white;
+    transition: 0.15s;
+    font-family: 'Inter', sans-serif;
+    justify-content: space-between;
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+  
+}
+
+    .cards{
+      font-family: 'Inter', sans-serif;
+      display: flex;
+justify-content: space-between;
+    }
+    .cardss{
+      font-family: 'Inter', sans-serif;
+      display: flex;
+justify-content: space-between;
+background-color: gray;
+    }
+    .card1{
+      margin-left: 90px;
+      justify-content: space-between;
+      align-items: center;
+      font-family: 'Inter', sans-serif;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      font-size: 10px;
+}
+.card2{
+      margin-left: 90px;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 10px;
+        }
+        .card3{
+          margin-left: 90px;
+          justify-content: space-between;
+          align-items: center;
+          font-family: 'Inter', sans-serif;
+          padding-top: 50px;
+          padding-bottom: 50px;
+          font-size: 10px;
+        }
+        .card4{
+
+          margin-left: 90px;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 10px;
+        }
+        .card5{
+          margin-left: 90px;
+      justify-content: space-between;
+      align-items: center;
+      font-family: 'Inter', sans-serif;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      font-size: 10px;
+        }
+        
+        .footer{
+          color: white;
+          margin: 0px;
+          display: flex;
+          padding-top: 50px;
+          font-size: 18px;
+          font-family: 'Inter', sans-serif;
+          height: 100px;
+              margin-left: 50px;
+              margin-bottom: 20px;
+              justify-content: space-between ;
+              gap: 400px;
+              justify-content: center;
+                  
+        }
